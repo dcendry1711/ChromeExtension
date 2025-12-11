@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+body {
+    min-width: 450px;
+}
+
 main {
     margin: 1em;
 }
